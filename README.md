@@ -95,8 +95,8 @@ Collection of JavaScript concepts and mini projects.
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://www.linkedin.com/in/shivendra-pratap-singh-716517336" />
+<a href="https://www.linkedin.com/in/shivendra-pratap-singh-716517336">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto: shivendrapratap280@gmail.com">
