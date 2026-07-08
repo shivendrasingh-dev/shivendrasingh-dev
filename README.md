@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Shivendra Singh
 
-<!--
-**shivendrasingh-dev/shivendrasingh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Aspiring MERN Stack Developer
+🌱 Currently learning JavaScript, React, Node.js and MongoDB
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+- Git & GitHub
+- java
+- React and Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- ☕ Cafe Website
+- 💰 Expense Tracker
+- More projects coming soon!
